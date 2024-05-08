@@ -76,7 +76,7 @@ outline: none;
 }
 
 .hero-section{
-    background: url(image/DSC02815.JPG) no-repeat center;
+    background: url(/image/DSC02815.JPG) no-repeat center;
     background-size: cover;
     width: 100%;
 }
