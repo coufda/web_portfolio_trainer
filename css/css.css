@@ -121,6 +121,11 @@ outline: none;
     text-align: center;
 }
 
+.col img{
+    height: 500px;
+}
+
+
 .text-primary{
    color: grey!important;
    
