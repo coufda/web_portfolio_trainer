@@ -75,6 +75,15 @@ outline: none;
     display: block;
 }
 
+.offcanvas-header{
+    background-color: white;
+}
+
+.offcanvas-body{
+    background-color: black;
+    opacity: 0.8;
+}
+
 .hero-section{
     background: url("../image/DSC02815.JPG") no-repeat center;
     background-size: cover;
